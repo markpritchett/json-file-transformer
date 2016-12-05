@@ -1,0 +1,14 @@
+{
+    "firstName": "Mark",
+    "lastName": "Pritchett",
+    "faveFilms": [
+        { "year": 2016, "name": "Deadpool" },
+        { "year": 2016, "name": "Doctor Strange" },
+        { "year": 2016, "name": "Suicide Squad" },
+        { "year": 2015, "name": "Star Wars: The Force Awakens" },
+        { "year": 2015, "name": "The Martian" },
+        { "year": 2015, "name": "The Revenant" },
+        { "year": 2015, "name": "Avengers: Age of Ultron" },
+        { "year": 2015, "name": "The Big Short" }
+    ]
+}
